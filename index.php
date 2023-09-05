@@ -30,9 +30,6 @@ getIPAddress();
   <li class="nav-item">
     <a class="nav-link disabled" href="#">total price : <?php total_price();?>  </a>
   </li>
-  <li class="nav-item">
-    <a class="nav-link disabled" href="#">Disabled</a>
-  </li>
 
 </ul>
 <!--   layer 3 --> 

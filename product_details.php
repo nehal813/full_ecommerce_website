@@ -29,9 +29,7 @@ session_start();
         <li class="nav-item">
           <a class="nav-link" href="users/register.php">Register</a>
         </li>
-  <li class="nav-item">
-    <a class="nav-link disabled" href="#">Disabled</a>
-  </li>
+ 
 </ul>
 <!--   layer 3 --> 
 <div class="bg-light">
